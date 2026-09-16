@@ -13,7 +13,9 @@ Next, you need to launch the bridge. You can do this either via the .exe file or
 Via the project file (which is also included). Upon successful launch, it should look like this:
 <img width="1728" height="955" alt="image" src="https://github.com/user-attachments/assets/e1e2c46e-3290-4799-86dc-56949374eb95" />
 Link to exe-file: https://drive.google.com/drive/folders/1t2zZ00ZbkGE-vBTSVBX33rvAaHJxGA6k?usp=drive_link
+
 That’s pretty much it; from here, you can play around with the sound settings. 
+
 My advice for a *Night Runners*-style feel is to set the speed mapping to 80% and the throttle mapping to 20%. Remember, this program was made just for fun—if you run into any bugs, please let us know so we can try to fix them. 
 
 Enjoy the game!
