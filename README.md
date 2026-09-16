@@ -1,4 +1,4 @@
-<img width="680" height="592" alt="image" src="https://github.com/user-attachments/assets/c16be1f2-17f0-47aa-aa27-9751c6fc57ab" /># NightRunnersAudio-for-AssetoCorsa
+
 Little plugin to make your game expierence better
 
 Well, my first major project is essentially an analogue of the GALA mode found on older car stereos.
