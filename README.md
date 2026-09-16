@@ -17,3 +17,7 @@ That’s pretty much it; from here, you can play around with the sound settings.
 My advice for a *Night Runners*-style feel is to set the speed mapping to 80% and the throttle mapping to 20%. Remember, this program was made just for fun—if you run into any bugs, please let us know so we can try to fix them. 
 
 Enjoy the game!
+
+
+@Sinonim - main dev
+@Akimato - spiritual mentor :) and tester
